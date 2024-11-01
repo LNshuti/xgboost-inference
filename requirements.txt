@@ -2,3 +2,4 @@ polars
 numpy 
 xgboost
 scikit-learn
+modal
